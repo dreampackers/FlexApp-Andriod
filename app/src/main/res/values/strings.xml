@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FlexApp-Android</string>
+    <string name="app_name">cocodealight</string>
 
     <string name="Cancel" translatable="true">취소</string>
     <string name="allowedUsers"> 허용된 사용자</string>

@@ -1,29 +1,28 @@
 {
   "project_info": {
-    "project_number": "158153998915",
-    "firebase_url": "https://companity-15085.firebaseio.com",
-    "project_id": "companity-15085",
-    "storage_bucket": "companity-15085.appspot.com"
+    "project_number": "722189033426",
+    "project_id": "cocodealight-b615c",
+    "storage_bucket": "cocodealight-b615c.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:158153998915:android:f62fbd2a41a59df5",
+        "mobilesdk_app_id": "1:722189033426:android:185d1c0f4008c94386b20b",
         "android_client_info": {
-          "package_name": "com.example.flexapp_android"
+          "package_name": "com.cocodealight"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "158153998915-bphpj0n5vg09064kfnon4vcjenqq2eo6.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC9w7hARTL1kJqGAXVOc1X6Hkc1ofXCbNE"
+          "current_key": "AIzaSyC9abFVpT3ndhKc83DyjKkKVlib-X5THKY"
         }
-      ]
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
     }
   ],
   "configuration_version": "1"
