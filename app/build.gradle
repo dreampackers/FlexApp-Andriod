@@ -9,8 +9,8 @@ android {
         applicationId "com.cocodealight"
         minSdk 29
         targetSdk 34
-        versionCode 1
-        versionName "1.0"
+        versionCode 3
+        versionName "3.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -44,5 +44,7 @@ dependencies {
             replacedBy("org.jetbrains.kotlin:kotlin-stdlib", "kotlin-stdlib-jdk8 is now part of kotlin-stdlib")
         }
     }
+    implementation 'com.github.anrwatchdog:anrwatchdog:1.4.0'
+
 }
 apply plugin: 'com.google.gms.google-services'
